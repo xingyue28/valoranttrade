@@ -58,8 +58,7 @@ function App() {
             
               <section id="banner">
                 <header>
-                  <h2>誠摯獻上最好的服務</h2>
-                  <p>ouo</p>
+                  <img src="https://discord.com/channels/1040288573791940668/1040654046467457024/1159467312827609109">
                 </header>
               </section>
 
