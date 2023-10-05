@@ -46,7 +46,7 @@ function App() {
 
               <nav id="nav">
                 <ul>
-                  <li class="current"><a href="#">首頁</a></li>
+                  <li class="current"><a href="#">首頁123</a></li>
                   <li><a href="#intro">介紹</a></li>
                   <li><a href="#main">商品</a></li>
                   <li><a href="#dataa">討論</a></li>
