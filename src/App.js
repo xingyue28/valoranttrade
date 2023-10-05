@@ -58,7 +58,7 @@ function App() {
             
               <section id="banner">
                 <header>
-                  <img src="https://discord.com/channels/1040288573791940668/1040654046467457024/1159467312827609109">
+                  <img src="https://discord.com/channels/1040288573791940668/1040654046467457024/1159467312827609109"/>
                 </header>
               </section>
 
